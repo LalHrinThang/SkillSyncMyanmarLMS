@@ -1,12 +1,18 @@
-# skillsynclms
+# SkillSyncLMS 🎓
 
-A new Flutter project.
+SkillSyncLMS is a mobile Learning Management System built with Flutter. This project serves as the capstone application for my 60-Day Flutter & Dart Mastery roadmap.
 
-## Getting Started
+## 🚀 Features (Planned)
+- [ ] User Authentication (Student/Instructor)
+- [ ] Course Dashboard & Progress Tracking
+- [ ] Video Player for Lectures
+- [ ] Quiz & Assessment Interface
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+## 🛠 Tech Stack
+- **Framework:** Flutter
+- **Language:** Dart
+- **State Management:** (e.g., Riverpod/Bloc)
+- **Backend:** (e.g., Firebase/Supabase)
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
